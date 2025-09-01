@@ -77,28 +77,28 @@ You have two options: auditing the course or registering, both of which are free
 
 # About your Instructor:
 
-[Aishwarya Naresh Reganti](https://www.linkedin.com/in/areganti/) works as a tech lead at the AWS-Generative AI Innovation Center in California, where she leads projects aimed at building production-ready generative AI applications for medium to large-sized businesses. With over 8 years of experience in machine learning, Aishwarya has published 30+ research papers in top AI conferences and mentored numerous graduate students. She actively collaborates with research labs and professors from institutions like Stanford University, University of Michigan, and University of South Carolina on projects related to LLMs, graph models and generative AI.
+[Murugavel C](https://www.linkedin.com/in/murugavelresume/) works as a tech lead at the Generative AI Innovation Center of Excelance India, where she leads projects aimed at building production-ready generative AI applications for medium to large-sized businesses. With over 10+ years of experience in Software and AI frield, AI conferences and mentored numerous graduate students and staffs. She actively collaborates with research labs and professors from institutions and University on projects related to LLMs, graph models and generative AI, Agentic AI etc.
 
-Outside her professional and academic pursuits, Aishwarya actively contributes to education through various channels. She offers free courses online, with over 3000 individuals having taken them already, and serves as a guest instructor at  institutions like Massachusetts Institute of Technology and University of Oxford.  
+Outside her professional and academic pursuits, Murugavel actively contributes to education through various channels. She offers free courses online, with over 3000 individuals having taken them already, and serves as a guest instructor at  institutions like with new Technologies.
 
-Additionally, she co-founded The LevelUp Org in 2022, a tech mentoring community dedicated to assisting newcomers in the field through mentorship programs and career-oriented events. A recognized industry expert and thought leader, Aishwarya frequently speaks at various industry conferences like ODSC, WomenTech Network, ReWork, and AI4, and has presented research at top-tier AI research conferences including EMNLP, AAAI, and CVPR.
+Additionally, a tech mentoring community dedicated to assisting newcomers in the field through mentorship programs and career-oriented events. A recognized industry expert and thought leader, Murugavel frequently speaks at various industry conferences and tech institutions and University.
 
-LinkedIn: [https://www.linkedin.com/in/areganti/](https://www.linkedin.com/in/areganti/)
+LinkedIn: [https://www.linkedin.com/in/areganti/](https://www.linkedin.com/in/murugavelresume/)
 
-Instagram: [https://www.instagram.com/aish_reganti/](https://www.instagram.com/aish_reganti/)
+Instagram: [https://www.instagram.com/aish_reganti/](https://www.instagram.com/murugavelc.ig/)
 
-YouTube: [https://www.youtube.com/@aishwaryanr4606](https://www.youtube.com/@aishwaryanr4606)
-
----
+YouTube: [https://www.youtube.com/](https://www.youtube.com/)
 
 ---
 
+---
 
-### Course Videos: 
 
-The videos will be available here everyday at 7:30 PM, Pacific Time
-1. [Instagram](https://www.instagram.com/aish_reganti)
-2. [YouTube](https://www.youtube.com/playlist?list=PLZoalK-hTD4VBBF03HAifKd6-DF68sYlC)
+### Course Videos Dicussions: 
+
+I will be available here everyday after at 7:30 PM, IST.
+1. [Instagram](https://www.instagram.com/murugavelc.ig)
+2. [YouTube](https://www.youtube.com/)
 
 
 ## 🗓️ Day 1: What is Generative AI (July 8th, 2024)
