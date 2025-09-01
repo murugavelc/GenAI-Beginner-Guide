@@ -1,15 +1,14 @@
-# :star: :bookmark: comprehensive-generative-ai-guide
+# :star: :bookmark: comprehensive-generative-ai-guide-for-beginners
 
 Generative AI is experiencing rapid growth, and this repository serves as a comprehensive hub for updates on generative AI research, interview materials, notebooks, and more!
 
-<a href="https://trendshift.io/repositories/7663" target="_blank"><img src="https://trendshift.io/api/badge/repositories/7663" alt="aishwaryanr%2Fawesome-generative-ai-guide | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 Explore the following resources:
 
 1. [Monthly Best GenAI Papers List](https://github.com/murugavelc/GenAI-Beginner-Guide/?tab=readme-ov-file#star-best-genai-papers-list-january-2024)
 2. [GenAI Interview Resources](https://github.com/murugavelc/GenAI-Beginner-Guide/?tab=readme-ov-file#computer-interview-prep)
-3. [Applied LLMs Mastery 2024 (created by Aishwarya Naresh Reganti) course material](https://github.com/murugavelc/GenAI-Beginner-Guide/?tab=readme-ov-file#ongoing-applied-llms-mastery-2024)
-4. [Generative AI Genius 2024 (created by Aishwarya Naresh Reganti) course material](https://github.com/murugavelc/GenAI-Beginner-Guide//blob/main/free_courses/generative_ai_genius/README.md)
+3. [Applied LLMs Mastery 2024 (created by Murugavel C) course material](https://github.com/murugavelc/GenAI-Beginner-Guide/?tab=readme-ov-file#ongoing-applied-llms-mastery-2024)
+4. [Generative AI Genius 2024 (created by Murugavel C) course material](https://github.com/murugavelc/GenAI-Beginner-Guide//blob/main/free_courses/generative_ai_genius/README.md)
 5. [List of all GenAI-related free courses (over 90 listed)](https://github.com/murugavelc/GenAI-Beginner-Guide/?tab=readme-ov-file#book-list-of-free-genai-courses)
 6. [List of code repositories/notebooks for developing generative AI applications](https://github.com/murugavelc/GenAI-Beginner-Guide/?tab=readme-ov-file#notebook-code-notebooks)
 
@@ -323,12 +322,13 @@ If you want to add to the repository or find any issues, please feel free to rai
 To cite this guide, use the below format:
 
 ```
-@article{areganti_generative_ai_guide,
+@article{comprehensive_generative_ai_guide,
 author = {Murugavel C},
+job = Senior Software Professional,
 journal = {https://github.com/murugavelc/GenAI-Beginner-Guide},
 month = {01},
 title = {{Generative AI Guide}},
-year = {2024}
+year = {2025}
 }
 ```
 
