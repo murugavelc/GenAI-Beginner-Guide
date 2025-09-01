@@ -6,12 +6,12 @@ Generative AI is experiencing rapid growth, and this repository serves as a comp
 
 Explore the following resources:
 
-1. [Monthly Best GenAI Papers List](https://github.com/aishwaryanr/awesome-generative-ai-guide?tab=readme-ov-file#star-best-genai-papers-list-january-2024)
-2. [GenAI Interview Resources](https://github.com/aishwaryanr/awesome-generative-ai-guide?tab=readme-ov-file#computer-interview-prep)
-3. [Applied LLMs Mastery 2024 (created by Aishwarya Naresh Reganti) course material](https://github.com/aishwaryanr/awesome-generative-ai-guide?tab=readme-ov-file#ongoing-applied-llms-mastery-2024)
-4. [Generative AI Genius 2024 (created by Aishwarya Naresh Reganti) course material](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/generative_ai_genius/README.md)
-5. [List of all GenAI-related free courses (over 90 listed)](https://github.com/aishwaryanr/awesome-generative-ai-guide?tab=readme-ov-file#book-list-of-free-genai-courses)
-6. [List of code repositories/notebooks for developing generative AI applications](https://github.com/aishwaryanr/awesome-generative-ai-guide?tab=readme-ov-file#notebook-code-notebooks)
+1. [Monthly Best GenAI Papers List](https://github.com/murugavelc/GenAI-Beginner-Guide/?tab=readme-ov-file#star-best-genai-papers-list-january-2024)
+2. [GenAI Interview Resources](https://github.com/murugavelc/GenAI-Beginner-Guide/?tab=readme-ov-file#computer-interview-prep)
+3. [Applied LLMs Mastery 2024 (created by Aishwarya Naresh Reganti) course material](https://github.com/murugavelc/GenAI-Beginner-Guide/?tab=readme-ov-file#ongoing-applied-llms-mastery-2024)
+4. [Generative AI Genius 2024 (created by Aishwarya Naresh Reganti) course material](https://github.com/murugavelc/GenAI-Beginner-Guide//blob/main/free_courses/generative_ai_genius/README.md)
+5. [List of all GenAI-related free courses (over 90 listed)](https://github.com/murugavelc/GenAI-Beginner-Guide/?tab=readme-ov-file#book-list-of-free-genai-courses)
+6. [List of code repositories/notebooks for developing generative AI applications](https://github.com/murugavelc/GenAI-Beginner-Guide/?tab=readme-ov-file#notebook-code-notebooks)
 
 We'll be updating this repository regularly, so keep an eye out for the latest additions!
 
@@ -20,24 +20,24 @@ Happy Learning!
 ---
 ## :star: Top AI Tools List
 
-Discover our favorite AI tools spanning every layer of AI application development. Click [here](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/resources/our_favourite_ai_tools.md) to learn more.
+Discover our favorite AI tools spanning every layer of AI application development. Click [here](https://github.com/murugavelc/GenAI-Beginner-Guide//blob/main/resources/our_favourite_ai_tools.md) to learn more.
 
 ---
 
 ## :speaker: Announcements
 
-- Applied LLMs Mastery full course content has been released!!! ([Click Here](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/Applied_LLMs_Mastery_2024))
-- 5-day roadmap to learn LLM foundations out now! ([Click Here](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/resources/genai_roadmap.md))
-- 60 Common GenAI Interview Questions out now! ([Click Here](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/interview_prep/60_gen_ai_questions.md))
+- Applied LLMs Mastery full course content has been released!!! ([Click Here](https://github.com/murugavelc/GenAI-Beginner-Guide//blob/main/free_courses/Applied_LLMs_Mastery_2024))
+- 5-day roadmap to learn LLM foundations out now! ([Click Here](https://github.com/murugavelc/GenAI-Beginner-Guide//blob/main/resources/genai_roadmap.md))
+- 60 Common GenAI Interview Questions out now! ([Click Here](https://github.com/murugavelc/GenAI-Beginner-Guide//blob/main/interview_prep/60_gen_ai_questions.md))
 - ICLR 2024 paper summaries ([Click Here](https://areganti.notion.site/06f0d4fe46a94d62bff2ae001cfec22c?v=d501ca62e4b745768385d698f173ae14))
-- List of free GenAI courses ([Click Here](https://github.com/aishwaryanr/awesome-generative-ai-guide#book-list-of-free-genai-courses))
+- List of free GenAI courses ([Click Here](https://github.com/murugavelc/GenAI-Beginner-Guide/#book-list-of-free-genai-courses))
 - Generative AI resources and roadmaps
-  - [3-day RAG roadmap](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/resources/RAG_roadmap.md)
-  - [5-day LLM foundations roadmap](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/resources/genai_roadmap.md)
-  - [5-day LLM agents roadmap](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/resources/agents_roadmap.md)
-  - [Agents 101 guide](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/resources/agents_101_guide.md)
-  - [Introduction to MM LLMs](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/resources/mm_llms_guide.md)
-  - [LLM Lingo Series: Commonly used LLM terms and their easy-to-understand definitions](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/resources/llm_lingo)
+  - [3-day RAG roadmap](https://github.com/murugavelc/GenAI-Beginner-Guide//blob/main/resources/RAG_roadmap.md)
+  - [5-day LLM foundations roadmap](https://github.com/murugavelc/GenAI-Beginner-Guide//blob/main/resources/genai_roadmap.md)
+  - [5-day LLM agents roadmap](https://github.com/murugavelc/GenAI-Beginner-Guide//blob/main/resources/agents_roadmap.md)
+  - [Agents 101 guide](https://github.com/murugavelc/GenAI-Beginner-Guide//blob/main/resources/agents_101_guide.md)
+  - [Introduction to MM LLMs](https://github.com/murugavelc/GenAI-Beginner-Guide//blob/main/resources/mm_llms_guide.md)
+  - [LLM Lingo Series: Commonly used LLM terms and their easy-to-understand definitions](https://github.com/murugavelc/GenAI-Beginner-Guide//blob/main/resources/llm_lingo)
 
 ---
 
@@ -52,67 +52,67 @@ Join 1000+ students on this 10-week adventure as we delve into the application o
 
 ##### [Feb 2024] Registrations are still open [click here](https://forms.gle/353sQMRvS951jDYu7) to register
 
-🗓️\*Week 1 [Jan 15 2024]**\*: [Practical Introduction to LLMs](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/Applied_LLMs_Mastery_2024/week1_part1_foundations.md)**
+🗓️\*Week 1 [Jan 15 2024]**\*: [Practical Introduction to LLMs](https://github.com/murugavelc/GenAI-Beginner-Guide//blob/main/free_courses/Applied_LLMs_Mastery_2024/week1_part1_foundations.md)**
 
 - Applied LLM Foundations
 - Real World LLM Use Cases
 - Domain and Task Adaptation Methods
 
 🗓️\*Week 2 [Jan 22 2024]**\*: [Prompting and Prompt
-Engineering](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/Applied_LLMs_Mastery_2024/week2_prompting.md)**
+Engineering](https://github.com/murugavelc/GenAI-Beginner-Guide//blob/main/free_courses/Applied_LLMs_Mastery_2024/week2_prompting.md)**
 
 - Basic Prompting Principles
 - Types of Prompting
 - Applications, Risks and Advanced Prompting
 
-🗓️\*Week 3 [Jan 29 2024]**\*: [LLM Fine-tuning](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/Applied_LLMs_Mastery_2024/week3_finetuning_llms.md)**
+🗓️\*Week 3 [Jan 29 2024]**\*: [LLM Fine-tuning](https://github.com/murugavelc/GenAI-Beginner-Guide//blob/main/free_courses/Applied_LLMs_Mastery_2024/week3_finetuning_llms.md)**
 
 - Basics of Fine-Tuning
 - Types of Fine-Tuning
 - Fine-Tuning Challenges
 
-🗓️\*Week 4 [Feb 5 2024]**\*: [RAG (Retrieval-Augmented Generation)](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/Applied_LLMs_Mastery_2024/week4_RAG.md)**
+🗓️\*Week 4 [Feb 5 2024]**\*: [RAG (Retrieval-Augmented Generation)](https://github.com/murugavelc/GenAI-Beginner-Guide//blob/main/free_courses/Applied_LLMs_Mastery_2024/week4_RAG.md)**
 
 - Understanding the concept of RAG in LLMs
 - Key components of RAG
 - Advanced RAG Methods
 
-🗓️\*Week 5 [ Feb 12 2024]**\*: [Tools for building LLM Apps](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/Applied_LLMs_Mastery_2024/week5_tools_for_LLM_apps.md)**
+🗓️\*Week 5 [ Feb 12 2024]**\*: [Tools for building LLM Apps](https://github.com/murugavelc/GenAI-Beginner-Guide//blob/main/free_courses/Applied_LLMs_Mastery_2024/week5_tools_for_LLM_apps.md)**
 
 - Fine-tuning Tools
 - RAG Tools
 - Tools for observability, prompting, serving, vector search etc.
 
-🗓️\*Week 6 [Feb 19 2024]**\*: [Evaluation Techniques](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/Applied_LLMs_Mastery_2024/week6_llm_evaluation.md)**
+🗓️\*Week 6 [Feb 19 2024]**\*: [Evaluation Techniques](https://github.com/murugavelc/GenAI-Beginner-Guide//blob/main/free_courses/Applied_LLMs_Mastery_2024/week6_llm_evaluation.md)**
 
 - Types of Evaluation
 - Common Evaluation Benchmarks
 - Common Metrics
 
-🗓️\*Week 7 [Feb 26 2024]**\*: [Building Your Own LLM Application](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/Applied_LLMs_Mastery_2024/week7_build_llm_app.md)**
+🗓️\*Week 7 [Feb 26 2024]**\*: [Building Your Own LLM Application](https://github.com/murugavelc/GenAI-Beginner-Guide//blob/main/free_courses/Applied_LLMs_Mastery_2024/week7_build_llm_app.md)**
 
 - Components of LLM application
 - Build your own LLM App end to end
 
-🗓️\*Week 8 [March 4 2024]**\*: [Advanced Features and Deployment](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/Applied_LLMs_Mastery_2024/week8_advanced_features.md)**
+🗓️\*Week 8 [March 4 2024]**\*: [Advanced Features and Deployment](https://github.com/murugavelc/GenAI-Beginner-Guide//blob/main/free_courses/Applied_LLMs_Mastery_2024/week8_advanced_features.md)**
 
 - LLM lifecycle and LLMOps
 - LLM Monitoring and Observability
 - Deployment strategies
 
-🗓️\*Week 9 [March 11 2024]**\*: [Challenges with LLMs](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/Applied_LLMs_Mastery_2024/week9_challenges_with_llms.md)**
+🗓️\*Week 9 [March 11 2024]**\*: [Challenges with LLMs](https://github.com/murugavelc/GenAI-Beginner-Guide//blob/main/free_courses/Applied_LLMs_Mastery_2024/week9_challenges_with_llms.md)**
 
 - Scaling Challenges
 - Behavioral Challenges
 - Future directions
 
-🗓️\*Week 10 [March 18 2024]**\*: [Emerging Research Trends](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/Applied_LLMs_Mastery_2024/week10_research_trends.md)**
+🗓️\*Week 10 [March 18 2024]**\*: [Emerging Research Trends](https://github.com/murugavelc/GenAI-Beginner-Guide//blob/main/free_courses/Applied_LLMs_Mastery_2024/week10_research_trends.md)**
 
 - Smaller and more performant models
 - Multimodal models
 - LLM Alignment
 
-🗓️*Week 11 *Bonus\* [March 25 2024]**\*: [Foundations](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/Applied_LLMs_Mastery_2024/week11_foundations.md)**
+🗓️*Week 11 *Bonus\* [March 25 2024]**\*: [Foundations](https://github.com/murugavelc/GenAI-Beginner-Guide//blob/main/free_courses/Applied_LLMs_Mastery_2024/week11_foundations.md)**
 
 - Generative Models Foundations
 - Self-Attention and Transformers
@@ -269,7 +269,7 @@ Engineering](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/mai
 
 #### Topic wise Questions:
 
-1. [Common GenAI Interview Questions](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/interview_prep/60_gen_ai_questions.md)
+1. [Common GenAI Interview Questions](https://github.com/murugavelc/GenAI-Beginner-Guide//blob/main/interview_prep/60_gen_ai_questions.md)
 2. Prompting and Prompt Engineering
 3. Model Fine-Tuning
 4. Model Evaluation
@@ -324,8 +324,8 @@ To cite this guide, use the below format:
 
 ```
 @article{areganti_generative_ai_guide,
-author = {Reganti, Aishwarya Naresh},
-journal = {https://github.com/aishwaryanr/awesome-generative-ai-resources},
+author = {Murugavel C},
+journal = {https://github.com/murugavelc/GenAI-Beginner-Guide},
 month = {01},
 title = {{Generative AI Guide}},
 year = {2024}
