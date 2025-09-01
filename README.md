@@ -1,4 +1,4 @@
-# :star: :bookmark: awesome-generative-ai-guide
+# :star: :bookmark: comprehensive-generative-ai-guide
 
 Generative AI is experiencing rapid growth, and this repository serves as a comprehensive hub for updates on generative AI research, interview materials, notebooks, and more!
 
