@@ -4,7 +4,7 @@
 
 **Everything you need to know about agentic AI in the real world**
 
-*Created by [Aishwarya Reganti](https://www.linkedin.com/in/areganti/) & [Kiriti Badam](https://www.linkedin.com/in/sai-kiriti-badam/)*
+*Created by [Murugavel C](https://www.linkedin.com/in/murugavelresume/)
 
 ---
 

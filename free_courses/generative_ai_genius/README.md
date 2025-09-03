@@ -1,6 +1,6 @@
 # Generative AI Genius 2024
 
-![Screenshot 2024-06-13 at 3.19.32 PM.png](https://github.com/aishwaryanr/awesome-generative-ai-resources/blob/main/free_courses/generative_ai_genius/genai_intro.png)
+![Screenshot 2024-06-13 at 3.19.32 PM.png](https://github.com/murugavelc/GenAI-Beginner-Guide/blob/main/free_courses/generative_ai_genius/genai_intro.png)
 
 # 🎉The course starts on July 8th 2024! Registrations Closed (You can audit the course for free)
 
@@ -64,7 +64,7 @@ You have two options: auditing the course or registering, both of which are free
 
 **Auditing the Course:**
 
-- You can watch the daily videos first on [Instagram](https://rb.gy/ae4z68) & [YouTube](https://www.youtube.com/@aishwaryanr4606). Links will be posted here too, but there might be a delay. For quicker updates, follow my account.
+- You can watch the daily videos first on [Instagram]() & [YouTube](https://www.youtube.com/). Links will be posted here too, but there might be a delay. For quicker updates, follow my account.
 - Access additional resources through this page daily; mini-project resources will also be available here.
 
 **Registering For the Course:**
@@ -83,9 +83,9 @@ Outside her professional and academic pursuits, Murugavel actively contributes t
 
 Additionally, a tech mentoring community dedicated to assisting newcomers in the field through mentorship programs and career-oriented events. A recognized industry expert and thought leader, Murugavel frequently speaks at various industry conferences and tech institutions and University.
 
-LinkedIn: [https://www.linkedin.com/in/areganti/](https://www.linkedin.com/in/murugavelresume/)
+LinkedIn: [https://www.linkedin.com/in/murugavelresume/](https://www.linkedin.com/in/murugavelresume/)
 
-Instagram: [https://www.instagram.com/aish_reganti/](https://www.instagram.com/murugavelc.ig/)
+Instagram: [https://www.instagram.com/murugavelc.ig/](https://www.instagram.com/murugavelc.ig/)
 
 YouTube: [https://www.youtube.com/](https://www.youtube.com/)
 
@@ -212,7 +212,7 @@ Happy coding!!
 - https://www.superannotate.com/blog/llm-fine-tuning
   
 **Notebooks and Coding Courses/Tutorials**:
-- https://github.com/aishwaryanr/awesome-generative-ai-guide?tab=readme-ov-file#fine-tuning-tutorials
+- https://github.com/murugavelc/GenAI-Beginner-Guide/?tab=readme-ov-file#fine-tuning-tutorials
 - [Training & Fine-Tuning LLMs for Production](https://learn.activeloop.ai/courses/llms) by Activeloop
 - [Finetuning Large Language Models](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/) by DeepLearning.AI
 - [Tutorial to Fine-Tune Mistal on your own data](https://github.com/brevdev/notebooks/blob/main/mistral-finetune-own-data.ipynb) by Brev.Dev
@@ -233,7 +233,7 @@ Happy coding!!
 ---
 
 **Reading Material**:
-- https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/resources/gen_ai_projects.md
+- https://github.com/murugavelc/GenAI-Beginner-Guide//blob/main/resources/gen_ai_projects.md
 ---
 ## 🗓️ Day 15: LLM Agents (July 22nd, 2024) 
 ---

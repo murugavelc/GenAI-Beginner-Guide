@@ -1,11 +1,11 @@
 # Applied LLMs Mastery 2024
 
-![mind_map.png](https://github.com/aishwaryanr/awesome-generative-ai-resources/blob/main/free_courses/Applied_LLMs_Mastery_2024/img/mind_map.png)
+![mind_map.png](https://github.com/murugavelc/GenAI-Beginner-Guide/blob/main/free_courses/Applied_LLMs_Mastery_2024/img/mind_map.png)
 
 # About This Course
 
 
-**[Official Course Website](https://areganti.notion.site/The-LevelUp-Org-Applied-LLMs-562ddaa27791463e9a1286199325045c)**
+**[Official Course Website](https://murugavelresume.notion.site/The-LevelUp-Org-Applied-LLMs-562ddaa27791463e9a1286199325045c)**
 
 Welcome to an exciting 10-week journey into the world of large language models!
 
@@ -28,7 +28,7 @@ This course caters to a diverse audience, including business leaders, profession
 
 To make this course accessible to a wide audience, we've designed it as a self-paced audit course. You can register for the course here and course material will be released weekly, featuring mind maps, "ETMI5: Explain to Me in 5" sections for a quick overview, relevant resources, and comprehensive content to ensure your understanding of each topic. Additionally, we'll provide research papers and distilled summaries to keep you updated on the latest research. This page serves as your central hub for all resources.
 
-Stay informed by registering for email notifications whenever new content is uploaded, or follow our updates on [LinkedIn](https://www.linkedin.com/in/areganti/). For any queries, feel free to contact the instructor at ***aish@levelup4all.org*** or on LinkedIn. At the end of each week, we'll address frequently asked questions. To maximize your learning experience, allocate 2-3 hours weekly for reading content and engaging in suggested hands-on experiments.
+Stay informed by registering for email notifications whenever new content is uploaded, or follow our updates on [LinkedIn](https://www.linkedin.com/in/murugavelresume/). For any queries, feel free to contact the instructor at ***Murugavel C*** or on LinkedIn. At the end of each week, we'll address frequently asked questions. To maximize your learning experience, allocate 2-3 hours weekly for reading content and engaging in suggested hands-on experiments.
 
 
 # Key Takeaways
@@ -42,19 +42,20 @@ Stay informed by registering for email notifications whenever new content is upl
 
 # Disclaimer
 
-This course content is developed by [Aishwarya Naresh Reganti](https://www.linkedin.com/in/areganti/). The course is offered independently, for **free** and is not affiliated with her professional responsibilities or employer. The content presented in this course is intended for educational purposes only and does not reflect the views or policies of any associated organizations.
+This course content is developed by [Aishwarya Naresh Reganti](https://www.linkedin.com/in/murugavelresume/). The course is offered independently, for **free** and is not affiliated with her professional responsibilities or employer. The content presented in this course is intended for educational purposes only and does not reflect the views or policies of any associated organizations.
 
 
 
 To cite this guide, use the below format:
 
 ```
-@article{areganti_generative_ai_guide,
-author = {Reganti, Aishwarya},
-journal = {https://github.com/aishwaryanr/awesome-generative-ai-resources},
+@article{comprehensive_generative_ai_guide},
+author = {Murugavel C},
+job = Senior Software Professional,
+journal = {https://github.com/murugavelc/GenAI-Beginner-Guide},
 month = {01},
 title = {{Generative AI Guide}},
-year = {2024}
+year = {2025}
 }
 ```
 

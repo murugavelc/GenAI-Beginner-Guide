@@ -1,0 +1,10 @@
+Large Language Models (LLMs) are advanced AI systems trained on vast amounts of text data. They can understand, generate, and manipulate human language for a variety of tasks, such as answering questions, summarizing content, and generating creative text.
+
+Retrieval-Augmented Generation (RAG) is a technique that combines the power of LLMs with external knowledge sources. In a RAG pipeline, relevant documents are retrieved from a knowledge base and provided as context to the LLM, enabling more accurate and up-to-date responses.
+
+Azure OpenAI provides enterprise-grade access to powerful LLMs, allowing organizations to build intelligent applications with advanced language capabilities. By integrating RAG with Azure OpenAI, you can create solutions that leverage both the reasoning ability of LLMs and the precision of curated knowledge bases.
+
+Example use cases for RAG include:
+- Customer support bots that reference product manuals
+- Research assistants that cite scientific literature
+- Enterprise search tools that combine internal documents with generative answers
